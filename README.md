@@ -6,6 +6,7 @@ Welcome to the WeatherApp! This is a simple and intuitive web application that p
 
 - **Automatic Location Detection:** The app requests access to your current location and automatically displays the weather information for that location.
 - **Manual Search:** If you want to check the weather for a different location, simply enter the city name in the search bar.
+- 
 - **Real-Time Data:** The app fetches up-to-date weather data from the OpenWeatherMap API, ensuring you get the latest information.
 
 ## Live Demo
